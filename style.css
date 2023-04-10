@@ -32,7 +32,7 @@ body {
     line-height: 100px;
     padding: 0 20px;
     border-radius: 10px;
-    background: #a7af7c;
+    background: #b3b4b3;
     text-align: right;
     font-size: 1.5rem;
     overflow: hidden;
@@ -60,10 +60,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #999;
+    color: black;
     border: 2px solid #222;
     border-radius: 6px;
-    background: linear-gradient(#555353, #363535);
+    background: linear-gradient(#efefef, #bab9b9);
     box-shadow: inset 0 6px 1px 0 rgba(0, 0, 0, 0.35),
     0 5px 5px rgba(0, 0, 0, 0.5),
     0 15px 25px rgba(0, 0, 0, 0.35);
